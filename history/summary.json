@@ -4,18 +4,20 @@
     "url": "https://kreatea.space",
     "icon": "https://favicons.githubusercontent.com/kreatea.space",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 462,
     "timeDay": 449,
     "timeWeek": 483,
     "timeMonth": 462,
     "timeYear": 462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 3
+    }
   },
   {
     "name": "Gitea",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/git.kreatea.space",
     "slug": "gitea",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 548,
     "timeDay": 505,
     "timeWeek": 531,
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-09-25": 0
+      "2021-09-25": 22
     }
   },
   {
@@ -42,18 +44,20 @@
     "url": "https://matrix.kreatea.space",
     "icon": "https://favicons.githubusercontent.com/matrix.kreatea.space",
     "slug": "matrix-synapse",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 433,
     "timeDay": 402,
     "timeWeek": 448,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 2
+    }
   },
   {
     "name": "Nextcloud",
@@ -61,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.kreatea.space",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.36%",
+    "uptimeDay": "90.51%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 1059,
     "timeDay": 750,
     "timeWeek": 1097,
     "timeMonth": 1059,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2021-09-25": 115,
+      "2021-09-25": 137,
       "2021-09-18": 22
     }
   },
@@ -99,18 +103,20 @@
     "url": "https://bin.kreatea.space",
     "icon": "https://favicons.githubusercontent.com/bin.kreatea.space",
     "slug": "private-bin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 595,
     "timeDay": 577,
     "timeWeek": 595,
     "timeMonth": 595,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 1
+    }
   },
   {
     "name": "Teddit",
@@ -118,18 +124,18 @@
     "icon": "https://favicons.githubusercontent.com/t.kreatea.space",
     "slug": "teddit",
     "status": "down",
-    "uptime": "81.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "88.24%",
-    "uptimeMonth": "81.65%",
-    "uptimeYear": "81.65%",
+    "uptime": "81.58%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "81.58%",
+    "uptimeYear": "81.58%",
     "time": 1142,
     "timeDay": 596,
     "timeWeek": 1009,
     "timeMonth": 1142,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2021-09-25": 0,
+      "2021-09-25": 22,
       "2021-09-23": 1186,
       "2021-09-15": 1112,
       "2021-09-14": 1440,
@@ -142,18 +148,18 @@
     "icon": "https://favicons.githubusercontent.com/nitter.kreatea.space",
     "slug": "nitter",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 427,
     "timeDay": 430,
     "timeWeek": 422,
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2021-09-25": 0
+      "2021-09-25": 21
     }
   }
 ]
