@@ -15,8 +15,6 @@ sites:
     url: https://searx.kreatea.space
   - name: PrivateBin
     url: https://bin.kreatea.space
-  - name: Teddit
-    url: https://t.kreatea.space
   - name: Nitter
     url: https://nitter.kreatea.space
 
