@@ -9,6 +9,8 @@ sites:
     url: https://git.kreatea.space
   - name: Matrix (Synapse)
     url: https://matrix.kreatea.space
+  - name: Libreddit
+    url: https://r.kreatea.space
   - name: Nextcloud
     url: https://cloud.kreatea.space
   - name: Searx
