@@ -1,7 +1,7 @@
 url: https://vault.kreatea.space
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2022-01-11T23:13:57.329Z
+status: down
+code: 502
+responseTime: 444
+lastUpdated: 2022-01-12T21:10:07.783Z
 startTime: Sat Dec 11 2021 20:20:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
